@@ -6,7 +6,7 @@ For now, this plugin only provides basic S3 functionality. It is my hope that ov
 
 ## Installation
 
-1. Extract the downloaded archive from [here](http://github.com/anthonyp/CakePHP-AWS-Plugin/zipball/master)
+1. Extract the downloaded archive from [here](http://github.com/HEROEngineer/CakePHP-AWS-Plugin/zipball/master)
 2. Move or copy the extracted directory anthonyp-CakePHP-AWS-Plugin-[hash] to /path/to/your/app/plugins/aws
 3. Copy the AWS setting stubs from the plugin's config/core.php into your app's config/core.php and modify to suit
 
